@@ -1,4 +1,14 @@
-# node-js-sample
+# Web api of tensify
+
+### Demo
+
+[https://tensify.herokuapp.com/eat](https://tensify.herokuapp.com/eat)
+
+Thank you for Original npm @boo1ean
+
+[https://github.com/boo1ean/tensify](https://github.com/boo1ean/tensify)
+
+# tensify-heroku
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
@@ -7,10 +17,12 @@ A barebones Node.js app using [Express 4](http://expressjs.com/).
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
 ```sh
-git clone git@github.com:heroku/node-js-sample.git # or clone your own fork
-cd node-js-sample
+git clone git@github.com:heroku/tensify-heroku.git # or clone your own fork
+cd tensify-heroku
 npm install
 npm start
+or
+heroku local
 ```
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
