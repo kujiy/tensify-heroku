@@ -1,7 +1,7 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-sample",
+  "name": "Tensify Sample",
+  "description": "Tensify works on a barebones Node.js app using Express 4",
+  "repository": "https://github.com/kujiy/tensify-heroku",
   "logo": "https://rawgit.com/heroku/node-js-sample/master/public/node.svg",
-  "keywords": ["node", "express", "static"]
+  "keywords": ["node", "express", "static", "tensify"]
 }
